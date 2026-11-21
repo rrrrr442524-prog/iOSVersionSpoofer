@@ -3,7 +3,7 @@ THEOS_PACKAGE_SCHEME = rootless
 //THEOS_DEVICE_IP = 127.0.0.1
 
 ARCHS = arm64 arm64e
-SDKVERSION=14.0
+
 FINALPACKAGE = 1
 
 TARGET := iphone:clang:latest:7.0
