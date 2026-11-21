@@ -1,3 +1,5 @@
+THEOS_PACKAGE_SCHEME = rootless
+
 //THEOS_DEVICE_IP = 127.0.0.1
 
 ARCHS = arm64 arm64e
